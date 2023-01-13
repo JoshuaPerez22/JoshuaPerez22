@@ -1,16 +1,15 @@
-## Hi there are some facts about me:
+## Hi I'm Joshua, there are some facts about me:
 
-- 👋 I'm Joshua Pérez Ibarra
 - 🙋‍ I'm 21 years old
 - :bookmark: I'm studying Applied Mathematics and Computing
 - 🔭 I’m currently doing my professional practices at Madd Systems
-- 🌱 I’m currently learning Backend development with Django
+- 🌱 I’m currently learning Backend development with Django by myself
+- 😄 Pronouns: He
 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
